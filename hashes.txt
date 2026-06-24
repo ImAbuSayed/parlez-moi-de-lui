@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Parlez-moi De Lui
+
+This log tracks the cryptographic history and versioning for the song **Parlez-moi De Lui** (parlez-moi-de-lui).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T20:44:11.100008 | `v1` | `4ad5cf019da1fd9a2994e9d06278b0c1352680be7e7e97b91be02d1f22d935f1` | `6f289f49595850931caf67eea1c0a1a5a67562b29a83da43f0926e68bf629003` | `2026-06-24_parlez-moi-de-lui-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/parlez-moi-de-lui/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Parlez-moi De Lui](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/parlez-moi-de-lui/) |
+| **Get License** | [License this song: Parlez-moi De Lui](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/parlez-moi-de-lui/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4ad5cf019da1fd9a2994e9d06278b0c1352680be7e7e97b91be02d1f22d935f1` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
