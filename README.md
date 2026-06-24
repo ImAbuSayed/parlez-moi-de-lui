@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/parlez-moi-de-lui/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Parlez-moi De Lui](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/parlez-moi-de-lui/) |
+| **Get License** | [Secure Licensing Rights for Parlez-moi De Lui](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/parlez-moi-de-lui/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bébé, la nuit est à nous, sous les néons de Paris
+> J'ai le cœur qui s'emballe quand tes yeux me disent oui
+> Viens faire un tour dans la gov, baby let's take a ride
+> Ton parfum dans l'habitacle, t'es mon seul guide tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
